@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(45deg, #e65e30df, #d722addd);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    font-size: 40px;
+    color: rgb(202, 255, 237);
+    font-family: "Press Start 2P";
+    font-style: italic;
+    border-bottom-style: inset;
+    
+    border-bottom-width: 6;
+}
+
+p{
+    font-size: 25px;
+    font-weight: 900    ;
+    font-family: "Ysabeau SC";
+    color: rgb(202, 255, 237);
+}
+
+a:link{
+    color: rgb(202, 255, 237);
+}
+a:visited{
+    color: rgb(202, 255, 237);
+}
